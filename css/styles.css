@@ -1,0 +1,85 @@
+.header {
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.headerContent {
+    border-bottom: 4px solid #BCBBBB;
+    padding-bottom: 20px;
+}
+
+.headerContent p {
+    margin-bottom: -10px;
+}
+
+.logo {
+    margin-top: 10px;
+    margin-left: -10px;
+    max-height: 115px;
+    max-width: 115px;
+}
+
+.colorDescriptor {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+.mainContent {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    color: #666756;
+    font-family: 'Roboto', sans-serif;
+    font-size: 46pt;
+    font-weight: 100;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+    padding-bottom: 0px;
+    margin-bottom: -15px;
+}
+
+h2 {
+    color: #666756;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16pt;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+h3 {
+    color: #BBBBCA;
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+    letter-spacing: 2.5px;
+    font-weight: 300;
+}
+
+h4 {
+    color: #666756;
+    font-family: 'Roboto', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+}
+
+a {
+    color: #666756;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+@media (max-width:767px) {
+    .project {
+        border: 1px solid #BCBBBB;
+    }
+}
